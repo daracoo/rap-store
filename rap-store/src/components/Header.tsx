@@ -6,7 +6,7 @@ const Header: React.FC = () => {
         <div className="navbar">
             <span className="title">Rap Store</span>
             <div className="links">
-                <button><ShoppingCart size={32} /></button>
+                <button><ShoppingCart size={32} />(0)</button>
             </div>
         </div>
     )

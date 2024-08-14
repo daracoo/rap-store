@@ -29,4 +29,5 @@ body, html {
   .links button {
     cursor: pointer;
     padding: 3;
+    border-radius: 7px;
   }
