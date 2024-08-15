@@ -207,8 +207,8 @@ h1 {
 .button {
   font: inherit;
   cursor: pointer;
-  background-color: #ffc404;
-  border: 1px solid #ffc404;
+  background-color: #32de84;
+  border: 1px solid #32de84;
   color: #1f1a09;
   padding: 0.5rem 1.5rem;
   border-radius: 4px;
@@ -216,8 +216,8 @@ h1 {
 
 .button:hover,
 .button:active {
-  background-color: #ffab04;
-  border-color: #ffab04;
+  background-color: #26aa66;
+  border-color: #26aa66;
   color: #1f1a09;
 }
 
